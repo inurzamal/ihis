@@ -1,0 +1,16 @@
+Hi {NAME},
+<br/>
+
+Welcome to IHIS Project, Your Account has been created in Integrated Health Insurance System.
+as a Case Worker <br/>
+<br/>
+
+Your Temporary Password : {TEMP-PWD}<br/>
+<br/>
+
+
+<br/>
+<br/>
+
+Thanks & Regards,<br/>
+IHIS, New Jersy <br/>
