@@ -1,4 +1,4 @@
-package com.nur;
+package com.nur.utils;
 
 import javax.mail.internet.MimeMessage;
 
